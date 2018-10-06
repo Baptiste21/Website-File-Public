@@ -21,5 +21,9 @@
 	  </table>
 	  <br>
 	  <address>file-server-yoanndelattre.herokuapp.com</address>
+	  <br>
+	  <footer>
+  		<p><a href="mailto:yoanndelattre21@gmail.com">Report a Problem</a></p>
+	  </footer>
   </body>
 </html>
