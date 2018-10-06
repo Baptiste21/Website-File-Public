@@ -11,6 +11,8 @@
 		  <tr><th valign="top"><img src="/img/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th></tr>
    		  <tr><th colspan="4"><hr></th></tr>
 		  
+		<tr><td valign="top"><img src="/img/home.gif" alt="[HOMEDIR]"></td><td><a href="/">Home Directory</a></td><td>&nbsp;</td></tr>
+		  
 		<tr><td valign="top"><img src="/img/back.gif" alt="[PARENTDIR]"></td><td><a href="/files/Projet Docker/projet docker.php">Parent Directory</a></td><td>&nbsp;</td></tr>
 		  
 		<tr><td valign="top"><img src="/img/unknown.gif" alt="[   ]"></td><td><a href="install.sh">install.sh</a></td></tr>
