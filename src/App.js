@@ -40,7 +40,7 @@ class App extends Component {
       this.setState({
         loading: false
       })
-    }, 1000);
+    }, 1300);
   }
 
   render() {
