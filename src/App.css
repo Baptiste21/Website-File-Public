@@ -1,0 +1,80 @@
+.title- {
+    font-size: 22px;
+    margin-left: 7px;
+}
+.home {
+    margin: 5px;
+}
+.img-homedir {
+    padding-right: 8px;
+    height: 20px;
+}
+.docker {
+    margin: 5px;
+}
+.img-docker {
+    padding-right: 8px; 
+}
+/*---------------------------------------------------------------*/
+.title-docker {
+    font-size: 22px;
+    margin-left: 7px;
+}
+.DockerHub_Dockerfile_WebDav {
+    margin: 5px;
+}
+.img-DockerHub_Dockerfile_WebDav {
+    padding-right: 8px; 
+}
+/*---------------------------------------------------------------*/
+.title-DockerHub_Dockerfile_WebDav {
+   font-size: 22px; 
+   margin-left: 7px;
+}
+/*---------------------------------*/
+.installsh {
+    margin: 5px;
+    font-size: 17px;
+}
+.img-installsh {
+    padding-right: 8px;
+}
+.bouton-download {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 50px;
+    font-weight: bold;
+    border-radius:4px;
+}
+.bouton-download:hover {
+    background-color: #009933;
+}
+.bouton-download:active {
+    box-shadow: 1px 1px 10px black inset, 0 1px 0 rgba( 255, 255, 255, 0.4); 
+    outline-style:none;
+}
+.bouton-download-link {
+    background-color:#d34836;
+    border:none;
+    color:#fff;
+    padding: 5px 10px;
+    display: inline-block;
+    font-size: 13px;
+    margin-left: 15px;
+    font-weight: bold;
+	border-radius:20px;
+}
+.bouton-download-link:hover {
+    background-color: rgb(190, 12, 12);
+    cursor: pointer;
+}
+.bouton-download-link:active {
+    box-shadow: 1px 1px 10px black inset, 0 1px 0 rgba( 255, 255, 255, 0.4); 
+    outline-style:none;
+}
+/*---------------------------------*/
+/*---------------------------------------------------------------*/
