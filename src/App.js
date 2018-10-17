@@ -54,7 +54,7 @@ class App extends Component {
           <div className='home'><li><img src={require('./img/home.gif')} alt="[HOMEDIR]" className='img-homedir'/><Link to="/">Home</Link></li></div>
           <div className='docker'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-docker'/><Link to="/Docker">Docker</Link></li></div>
         </ul>
-
+      <img src={require('./img/reactjs-logo.png')} alt="[LOGO-REACTJS]" className='img-info-create'/>
         <Route path="/" component={Home}/>
         <Route path="/docker" component={Docker}/>
         <Route path="/Docker/DockerHub_Dockerfile_WebDav" component={DockerHub_Dockerfile_WebDav}/>
