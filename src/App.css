@@ -1,12 +1,18 @@
-.img-info-create {
+.info-create {
     position: fixed;
     bottom: 0;
     right: 0;
-    background-color: rgb(116, 116, 116);
-    border-radius: 15px;
-    padding: 4px 3px;
-    margin-right: 4px;
+    background: linear-gradient(left, rgb(143, 143, 143), rgb(66, 66, 66));
+    border-radius: 10px;
+    padding: 2px 7px 4px 7px;
+    margin-right: 3px;
     margin-bottom: 4px;
+}
+.img-info-create {
+    margin-left: 5px
+}
+.text-info-create {
+    font-size: 12px;
 }
 /*---------------------------------------------------------------*/
 .title- {
