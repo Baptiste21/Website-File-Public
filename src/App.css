@@ -15,7 +15,7 @@
     font-size: 12px;
 }
 /*---------------------------------------------------------------*/
-.title- {
+.title {
     font-size: 22px;
     margin-left: 7px;
 }
@@ -24,7 +24,6 @@
 }
 .img-homedir {
     padding-right: 8px;
-    height: 20px;
 }
 .docker {
     margin: 5px;
