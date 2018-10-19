@@ -14,7 +14,7 @@ const Docker = () => (
   <div>
       <h1 className='title-docker'>Path= /Docker/</h1>
       <ul>
-        <div className='DockerHub_Dockerfile_WebDav'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-DockerHub_Dockerfile_WebDav'/><Link to="/Docker/DockerHub_Dockerfile_WebDav">DockerHub_Dockerfile_WebDav</Link></li></div>
+        <div className='DockerHub_Dockerfile_WebDav'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-DockerHub_Dockerfile_WebDav'/><Link className='link-folder' to="/Docker/DockerHub_Dockerfile_WebDav">DockerHub_Dockerfile_WebDav</Link></li></div>
      </ul>
      <br></br>
      <hr/>
@@ -53,8 +53,8 @@ class App extends Component {
       <div className="App">
       <h1 className='title'>Path= /</h1>
         <ul>
-          <div className='home'><li><img src={require('./img/home.gif')} alt="[HOMEDIR]" className='img-homedir'/><Link to="/">Home</Link></li></div>
-          <div className='docker'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-docker'/><Link to="/Docker">Docker</Link></li></div>
+          <div className='home'><li><img src={require('./img/home.gif')} alt="[HOMEDIR]" className='img-homedir'/><Link className='link-folder' to="/">Home</Link></li></div>
+          <div className='docker'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-docker'/><Link className='link-folder' to="/Docker">Docker</Link></li></div>
         </ul>
         <br></br>
       <span className='info-create'><span className='text-info-create'>Created with ReactJS</span><img src={require('./img/reactjs-logo.png')} alt="[LOGO-REACTJS]" className='img-info-create'/></span>
