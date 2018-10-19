@@ -58,6 +58,7 @@ class App extends Component {
         </ul>
         <br></br>
       <span className='info-create'><span className='text-info-create'>Created with ReactJS</span><img src={require('./img/reactjs-logo.png')} alt="[LOGO-REACTJS]" className='img-info-create'/></span>
+      <a className='report-problem' href="mailto:yoanndelattre21@gmail.com">Report a Problem</a>
         <Route path="/" component={Home}/>
         <Route path="/docker" component={Docker}/>
         <Route path="/Docker/DockerHub_Dockerfile_WebDav" component={DockerHub_Dockerfile_WebDav}/>
