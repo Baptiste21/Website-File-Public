@@ -25,7 +25,7 @@ const DockerHub_Dockerfile_WebDav = () => (
   <div>
     <h1 className='title-DockerHub_Dockerfile_WebDav'>Path= /Docker/DockerHub_Dockerfile_WebDav/</h1>
       <ul>
-        <div className='installsh'><li><img src={require('./img/file.gif')} alt="[FILE]" className='img-installsh'/>install.sh<a href='..\files\Docker\DockerHub_Dockerfile_WebDav\install.sh' download><div className='bouton-download'>Download</div></a><ReactCopyButtonWrapper text='https://file-public.herokuapp.com/files/Docker/DockerHub_Dockerfile_WebDav/install.sh'><button className='bouton-download-link'>Copy Download Link</button></ReactCopyButtonWrapper></li></div>
+        <div className='installsh'><li><img src={require('./img/file.gif')} alt="[FILE]" className='img-installsh'/>install.sh<a href='..\files\Docker\DockerHub_Dockerfile_WebDav\install.sh' download><div className='bouton-download'>Download</div></a><ReactCopyButtonWrapper text='https://file-public.netlify.com/files/Docker/DockerHub_Dockerfile_WebDav/install.sh'><button className='bouton-download-link'>Copy Download Link</button></ReactCopyButtonWrapper></li></div>
       </ul>
       <br></br>
      <hr/>
