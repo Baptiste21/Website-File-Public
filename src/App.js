@@ -41,7 +41,6 @@ class App extends Component {
           <div className='docker'><li><img src={require('./img/folder.gif')} alt="[DIR]" className='img-docker'/><Link className='link-folder' to="/Docker">Docker</Link></li></div>
         </ul>
         <br></br>
-      <span className='info-create'><span className='text-info-create'>Created with ReactJS</span><img src={require('./img/reactjs-logo.png')} alt="[LOGO-REACTJS]" className='img-info-create'/></span>
       <a className='report-problem' href="mailto:yoanndelattre21@gmail.com">Report a Problem</a>
         <Route path="/" component={Home}/>
         <Route path="/docker" component={Docker}/>
